@@ -1,0 +1,10 @@
+p {
+    color: aliceblue;
+}
+.imagem_fundo {
+    background-image: url("../assets/plano_de_fundo.jpeg") ;
+    background-size: cover;
+    width: 100vw;
+    min-height: 100vw;
+    margin-top: 0;
+}
